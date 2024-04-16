@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "sr": "1",
+      "name": "Ravi",
+      "college": "Nagar College",
+      "city": "Ahilyanagar",
+      "id": 2
+    },
+    {
+      "sr": "2",
+      "name": "Rutuja",
+      "college": "New Arts College",
+      "city": "Ahilyanagar",
+      "id": 3
+    },
+    {
+      "sr": "2",
+      "name": "Ravindra",
+      "college": "Oxford",
+      "city": "London",
+      "id": 5
+    },
+    {
+      "sr": "5",
+      "name": "Ravi",
+      "city": "Hyderabad",
+      "college": "New Arts College",
+      "id": 8
+    }
+  ]
+}
